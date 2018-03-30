@@ -1,0 +1,4 @@
+E:\Projects\Libraries\MathematicLibrary\iMax.Mathematics\bin\Release\iMax.Mathematics.dll
+E:\Projects\Libraries\MathematicLibrary\iMax.Mathematics\bin\Release\iMax.Mathematics.pdb
+E:\Projects\Libraries\MathematicLibrary\iMax.Mathematics\obj\Release\iMax.Mathematics.dll
+E:\Projects\Libraries\MathematicLibrary\iMax.Mathematics\obj\Release\iMax.Mathematics.pdb

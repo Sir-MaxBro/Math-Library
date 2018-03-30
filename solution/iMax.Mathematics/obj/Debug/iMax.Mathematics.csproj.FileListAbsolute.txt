@@ -1,0 +1,5 @@
+E:\Projects\Libraries\MathematicLibrary\iMax.Mathematics\bin\Debug\iMax.Mathematics.NotPortable.dll
+E:\Projects\Libraries\MathematicLibrary\iMax.Mathematics\bin\Debug\iMax.Mathematics.NotPortable.pdb
+E:\Projects\Libraries\MathematicLibrary\iMax.Mathematics\obj\Debug\iMax.Mathematics.csprojResolveAssemblyReference.cache
+E:\Projects\Libraries\MathematicLibrary\iMax.Mathematics\obj\Debug\iMax.Mathematics.NotPortable.dll
+E:\Projects\Libraries\MathematicLibrary\iMax.Mathematics\obj\Debug\iMax.Mathematics.NotPortable.pdb
